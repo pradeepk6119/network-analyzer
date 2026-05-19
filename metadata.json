@@ -1,0 +1,6 @@
+{
+  "name": "Network Traffic Analyzer",
+  "description": "A clean malware traffic analysis dashboard. Upload Wireshark JSON exports to detect security threats and anomalous network patterns using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
